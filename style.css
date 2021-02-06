@@ -1,0 +1,93 @@
+.topnav {
+    background-color: rgb(4, 48, 83);
+    overflow: hidden;
+    height: 50px;
+  }
+  .logo {
+    float: right;
+    width: 40px;
+    height: 40px;
+    padding-right: 1%;
+    padding-top: .5%;
+  }
+  .topnav a {
+    float: left;
+    color: rgb(178, 214, 226);
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(178, 214, 226);
+  }
+  .hero{
+   background-image: url("Hero2.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 70%;
+   text-align: center;
+   padding-top: 1%;
+   font-size: 20px;
+   padding-bottom: 2%;
+   color: rgb(4, 48, 83);
+  }
+  
+  .aboutMe {
+    background-color: rgb(122, 159, 177);
+    color: rgb(4, 48, 83);
+    text-align: center;
+    padding: 2%;
+  }
+  .myWork {
+    background-color: rgb(178, 214, 226);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .blackgirlscode {
+    background-repeat: no-repeat;
+    align-items: ;
+    height: 465px;
+   width: 879px;
+  }
+  .Botani {
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+  }
+  .DHS {
+    background-image: url("DHS575.png");
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-bottom: 5%;
+  }
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(4, 48, 83);
+    height: 50px;
+  }
+  .footer a {
+    padding: 20px 40px;
+    font-family: szilla slab;
+    text-decoration: none;
+  }
+  .connect {
+    color: rgb(178, 214, 226);
+  }
+  .number {
+    color:rgb(178, 214, 226);
+  }
+  .email {
+    color: rgb(178, 214, 226);
+  }
+  .socialmedia {
+    ;
+  }
+  
+  
